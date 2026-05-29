@@ -1,0 +1,5 @@
+100 min_address
+500 max_address
+1 enable_debug
+32 burst_length
+7 timeout_value

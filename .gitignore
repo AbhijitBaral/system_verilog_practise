@@ -1,0 +1,20 @@
+# Questa/ModelSim
+work/
+transcript
+*.wlf
+modelsim.ini
+*.mpf
+*.cr.mti
+
+# Backup files
+*.bak
+*.sv.bak
+
+# Editor files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
